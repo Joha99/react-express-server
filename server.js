@@ -15,7 +15,7 @@ app.get("/api/customers", (req, res) => {
       lastName: "Doe",
     },
     {
-      id: 1,
+      id: 3,
       firstName: "Bob",
       lastName: "Smith",
     },
